@@ -1,0 +1,5 @@
+.innerContainer {
+  flex: 1; /* span the inner containers eyally in 1:1 ratio */
+  padding: 10px;
+  margin: 10px;
+}
